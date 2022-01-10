@@ -1,0 +1,9 @@
+[package]
+name = "draw-prim"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+image = "0.23.14"
+ndarray = "0.15.0"
+rand = "0.8.4"
